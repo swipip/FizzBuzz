@@ -1,6 +1,8 @@
 
 # FizzBuzz App
 
+<img src="https://firebasestorage.googleapis.com/v0/b/nextfire-2a0ae.appspot.com/o/fbLogo.png?alt=media&token=d8974bc5-e098-4643-8030-748747ec503b" alt="app icon" width="100"/>
+
 ****test coverage: ~80%****
 
 ## Global feedback
